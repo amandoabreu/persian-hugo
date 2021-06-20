@@ -1,4 +1,4 @@
-baseURL = "https://rawnorth.no"
+baseURL = "https://rawnorth.netlify.app"
 disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
