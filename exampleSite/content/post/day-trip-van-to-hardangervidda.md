@@ -1,10 +1,10 @@
 +++
 author = "Amando Abreu"
-categories = []
+categories = ["home"]
 date = 2021-06-20T22:00:00Z
 description = ""
 image = "/images/img_0252-edit.jpg"
-tags = []
+tags = ["Hardangervidda"]
 title = "Day trip (van) to Hardangervidda"
 
 +++
