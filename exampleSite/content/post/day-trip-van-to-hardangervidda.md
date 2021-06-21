@@ -3,7 +3,6 @@ author = "Amando Abreu"
 categories = []
 date = 2021-06-20T22:00:00Z
 description = ""
-draft = true
 image = "/images/img_0252-edit.jpg"
 tags = []
 title = "Day trip (van) to Hardangervidda"
