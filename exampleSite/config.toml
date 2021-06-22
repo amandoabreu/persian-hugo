@@ -2,7 +2,7 @@ baseURL = "https://rawnorth.netlify.app"
 disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
-paginate = "5"
+paginate = "4"
 theme = "persian"
 title = "Raw North"
 [markup.goldmark.renderer]
